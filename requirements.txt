@@ -1,0 +1,6 @@
+streamlit
+flask
+langchain
+requests
+torch  # If LlamaCpp uses PyTorch
+transformers  # If LlamaCpp uses Transformers library
